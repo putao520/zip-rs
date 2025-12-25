@@ -1,0 +1,7 @@
+---
+source: tests/unzip_process.rs
+expression: normalized
+---
+Extracted files:
+file1.txt
+file2.txt

@@ -1,0 +1,6 @@
+---
+source: tests/paths.rs
+expression: normalized
+---
+root 1 2/
+root 1 2/file 3 4

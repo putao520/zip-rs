@@ -1,0 +1,8 @@
+---
+source: tests/paths.rs
+expression: normalized
+---
+dir1/
+dir1/file 1
+dir 2/
+dir 2/<tempfile>

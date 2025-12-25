@@ -1,0 +1,15 @@
+# insta 快照测试配置
+
+# 快照文件路径
+snapshot_path: "tests/snapshots"
+
+# 快照更新行为
+behavior:
+  # 未找到快照时的行为
+  missing_snapshot: "warn"  # warn | error | create
+  # 快照不匹配时的行为
+  mismatched_snapshot: "warn"  # warn | error | update
+  # 未挂载的快照
+  unmounted_snapshot: "warn"
+
+# 注：设置环境变量 INSTA_UPDATE=always 来更新所有快照

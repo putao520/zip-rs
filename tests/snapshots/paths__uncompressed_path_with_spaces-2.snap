@@ -1,0 +1,6 @@
+---
+source: tests/paths.rs
+expression: format_file_list(&entries2)
+---
+root 1 2/
+root 1 2/file 3 4

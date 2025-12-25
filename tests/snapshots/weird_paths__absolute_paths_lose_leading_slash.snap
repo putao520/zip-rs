@@ -1,0 +1,6 @@
+---
+source: tests/weird_paths.rs
+expression: normalized
+---
+tmp/.tmpXXXXXX<tempdir>/
+tmp/.tmpXXXXXX<tempdir>/bad

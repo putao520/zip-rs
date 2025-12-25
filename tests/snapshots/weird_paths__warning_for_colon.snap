@@ -1,0 +1,5 @@
+---
+source: tests/weird_paths.rs
+expression: file_list
+---
+bad:boy

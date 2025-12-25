@@ -1,0 +1,8 @@
+---
+source: tests/zipr.rs
+expression: normalized
+---
+level1/
+level1/<tempfile>.txt
+level1/level2/
+level1/level2/<tempfile>.txt

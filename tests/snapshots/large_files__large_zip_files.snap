@@ -1,0 +1,6 @@
+---
+source: tests/large_files.rs
+expression: output
+---
+file1: 60000000 bytes (compressed: 60000000 bytes)
+file2: 9 bytes (compressed: 9 bytes)

@@ -1,0 +1,6 @@
+---
+source: tests/zip_process.rs
+expression: output
+---
+file1.txt
+file2.txt

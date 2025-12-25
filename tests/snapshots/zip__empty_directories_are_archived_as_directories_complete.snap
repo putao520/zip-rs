@@ -1,0 +1,8 @@
+---
+source: tests/zip.rs
+expression: normalized
+---
+foo/
+foo/bar/
+foo/bar2/
+foo/<tempfile>

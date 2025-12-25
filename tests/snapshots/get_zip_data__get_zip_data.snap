@@ -1,0 +1,9 @@
+---
+source: tests/get_zip_data.rs
+expression: normalized
+---
+empty/
+foo/
+foo/bar/
+foo/bar/bar.txt
+foobar

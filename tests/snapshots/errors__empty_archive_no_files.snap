@@ -1,0 +1,5 @@
+---
+source: tests/errors.rs
+expression: "format!(\"Entries: {}\", entries.len())"
+---
+Entries: 0

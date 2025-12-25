@@ -1,0 +1,10 @@
+---
+source: tests/zip.rs
+expression: normalized
+---
+file3
+.tmpXXXXXX/
+.tmpXXXXXX/testdir/
+.tmpXXXXXX/testdir/<tempfile>
+.tmpXXXXXX/testdir/<tempfile>
+file4

@@ -1,0 +1,8 @@
+---
+source: tests/zip.rs
+expression: "format!(\"Initial:\\n{}\", normalized)"
+---
+Initial:
+dir1/
+dir1/<tempfile>
+dir1/<tempfile>

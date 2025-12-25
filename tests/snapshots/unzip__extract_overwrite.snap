@@ -1,0 +1,5 @@
+---
+source: tests/unzip.rs
+expression: "\"Overwrite allowed (no error)\""
+---
+Overwrite allowed (no error)

@@ -1,0 +1,6 @@
+---
+source: tests/special_dot.rs
+expression: output
+---
+foo
+bar

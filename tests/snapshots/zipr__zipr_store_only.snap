@@ -1,0 +1,5 @@
+---
+source: tests/zipr.rs
+expression: output
+---
+Original: 20 bytes, Compressed: 25 bytes

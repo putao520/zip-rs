@@ -1,0 +1,6 @@
+---
+source: tests/zip_process.rs
+expression: normalized
+---
+testdir/<tempfile>.txt
+testdir/<tempfile>.txt

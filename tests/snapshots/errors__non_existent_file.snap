@@ -1,0 +1,5 @@
+---
+source: tests/errors.rs
+expression: normalized
+---
+FileOpen { path: "<tempdir>/.tmpXXXXXX/nonexistent.txt", source: Os { code: 2, kind: NotFound, message: "No such file or directory" } }

@@ -1,0 +1,7 @@
+---
+source: tests/zip_list.rs
+expression: "types.join(\"\\n\")"
+---
+a/: directory
+a/foo: file
+a/bar: file

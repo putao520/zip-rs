@@ -1,0 +1,5 @@
+---
+source: tests/errors.rs
+expression: normalized
+---
+FileOpen { path: "<tempdir>/.tmpXXXXXX/unreadable.txt", source: Os { code: 13, kind: PermissionDenied, message: "Permission denied" } }

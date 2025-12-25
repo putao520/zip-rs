@@ -1,0 +1,5 @@
+---
+source: tests/unzip.rs
+expression: result
+---
+bar -> foo

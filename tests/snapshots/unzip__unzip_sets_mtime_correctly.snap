@@ -1,0 +1,10 @@
+---
+source: tests/unzip.rs
+expression: normalized
+---
+mtime checks:
+Some("file1"): diff = 598.990082882s
+Some("file11"): diff = 598.990082882s
+Some("dir"): diff = 598.990082882s
+Some("file2"): diff = 598.990082882s
+Some("file3"): diff = 598.990082882s

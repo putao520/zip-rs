@@ -1,0 +1,10 @@
+---
+source: tests/errors.rs
+expression: normalized
+---
+Before: 2 entries
+After: 3 entries
+Files:
+file1.txt
+file2.txt
+empty_dir/

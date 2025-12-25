@@ -1,0 +1,5 @@
+---
+source: tests/unzip.rs
+expression: "format!(\"DESCRIPTOR mode: {:o}\", mode & 0o777)"
+---
+DESCRIPTOR mode: 664

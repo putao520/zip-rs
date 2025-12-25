@@ -1,0 +1,7 @@
+---
+source: tests/zip.rs
+expression: normalized
+---
+testdir/
+testdir/<tempfile>
+testdir/<tempfile>

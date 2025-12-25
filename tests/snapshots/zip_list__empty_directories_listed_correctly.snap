@@ -1,0 +1,8 @@
+---
+source: tests/zip_list.rs
+expression: normalized
+---
+foo/: 0 bytes
+foo/bar/: 0 bytes
+foo/bar2/: 0 bytes
+foo/<tempfile>: 9 bytes

@@ -1,0 +1,6 @@
+---
+source: tests/zipr.rs
+expression: normalized
+---
+testdir/<tempfile>
+testdir/<tempfile>

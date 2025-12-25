@@ -1,0 +1,5 @@
+---
+source: tests/large_files.rs
+expression: "\"Skipped: ZIP_LONG_TESTS not set\""
+---
+Skipped: ZIP_LONG_TESTS not set

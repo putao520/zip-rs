@@ -1,0 +1,5 @@
+---
+source: tests/inflate.rs:90
+expression: out
+---
+Hello world!

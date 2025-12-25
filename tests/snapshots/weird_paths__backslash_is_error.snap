@@ -1,0 +1,5 @@
+---
+source: tests/weird_paths.rs
+expression: normalized
+---
+Generic("Invalid filename: cannot contain backslash: 'real\\bad'")

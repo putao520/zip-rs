@@ -1,0 +1,44 @@
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test artifacts
+*.zip
+test.zip
+test-*.zip
+
+# Debug files
+debug_deflate.rs
+debug_*.rs
+
+# Audit reports (optional - comment out if you want to track them)
+TEST_AUDIT_*.md
+TEST_AUDIT_*.txt
+TEST_*.md
+
+# Temporary files
+*.tmp
+.tmp/
+temp/
+tmp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
+*.so
+*.dylib
+*.dll
+*.exe

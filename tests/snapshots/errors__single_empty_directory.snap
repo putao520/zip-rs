@@ -1,0 +1,7 @@
+---
+source: tests/errors.rs
+expression: normalized
+---
+Entries: 1
+Files:
+testdir/

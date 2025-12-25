@@ -1,0 +1,10 @@
+---
+source: tests/unzip.rs
+expression: normalized
+---
+Permission checks:
+Some(".tmpW2CFAn"): no metadata
+Some("file1"): no metadata
+Some("dir"): no metadata
+Some("file2"): no metadata
+Some("file3"): no metadata

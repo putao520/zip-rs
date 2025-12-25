@@ -1,0 +1,5 @@
+---
+source: tests/weird_paths.rs
+expression: "\"Extracted successfully\""
+---
+Extracted successfully

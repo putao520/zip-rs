@@ -1,0 +1,7 @@
+---
+source: tests/zipr.rs
+expression: "results.join(\"\\n\")"
+---
+Level1: 33 bytes
+Level6: 33 bytes
+Level9: 33 bytes

@@ -1,0 +1,6 @@
+---
+source: tests/zip.rs
+expression: format_file_list(&entries)
+---
+file1.txt
+file2.txt

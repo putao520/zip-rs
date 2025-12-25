@@ -1,0 +1,10 @@
+---
+source: tests/unzip.rs
+expression: normalized
+---
+Extracted files:
+dir/
+dir/<tempfile>
+dir/<tempfile>
+file1
+file11

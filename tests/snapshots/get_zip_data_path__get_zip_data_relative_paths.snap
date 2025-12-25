@@ -1,0 +1,7 @@
+---
+source: tests/get_zip_data_path.rs
+expression: normalized
+---
+../
+../foo/
+../foo/bar/

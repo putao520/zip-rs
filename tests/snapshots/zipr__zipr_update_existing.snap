@@ -1,0 +1,5 @@
+---
+source: tests/zipr.rs
+expression: "format!(\"Before: {}, After: {}\", entries_before.len(), entries_after.len())"
+---
+Before: 1, After: 2

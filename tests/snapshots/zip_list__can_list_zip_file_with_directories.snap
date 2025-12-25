@@ -1,0 +1,7 @@
+---
+source: tests/zip_list.rs
+expression: normalized
+---
+testdir/: 0 bytes
+testdir/<tempfile>: 10 bytes
+testdir/<tempfile>: 11 bytes

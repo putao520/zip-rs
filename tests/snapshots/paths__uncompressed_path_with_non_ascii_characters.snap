@@ -1,0 +1,6 @@
+---
+source: tests/paths.rs
+expression: output
+---
+úáöőé/
+úáöőé/ufileúá

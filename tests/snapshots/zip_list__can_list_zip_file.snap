@@ -1,0 +1,6 @@
+---
+source: tests/zip_list.rs
+expression: format_entries(&entries)
+---
+file1: 10 bytes
+file2: 11 bytes

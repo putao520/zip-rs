@@ -1,0 +1,10 @@
+---
+source: tests/zip.rs
+expression: normalized
+---
+.tmpXXXXXX/
+.tmpXXXXXX/<tempfile>
+.tmpXXXXXX/<tempfile>
+.tmpXXXXXX/
+.tmpXXXXXX/<tempfile>
+.tmpXXXXXX/<tempfile>
